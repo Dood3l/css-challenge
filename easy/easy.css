@@ -1,0 +1,23 @@
+* {
+    margin: 20px;
+}
+img {
+    width: 435px;
+    height: auto;
+}
+table {
+    height: 600px;
+    width: 1000px;
+}
+table, td {
+    border: solid 1px;
+    border-collapse: collapse;
+}
+.red {
+    background: red;
+}
+#stars {
+    margin-left: 20px;
+    margin-right: auto;
+    margin-bottom: -346px;
+}
